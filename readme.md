@@ -7,9 +7,9 @@ Suppose a team is working on a project, and the members are located in different
 
 ## TODO list:
 
-[x] Create a user interface (UI) that displays the time for each location. You can use a ListView, RecyclerView, or any other UI component that is appropriate.
-[ ] Create a class that retrieves the current time for each location using a web service or API. There are several APIs available, such as the Google Maps Time Zone API, which provides time zone information for a given location.
-[ ] Use the Timezone class to convert the retrieved time to the user's local time zone.
-[ ] Display the converted time in the UI component.
-[ ] Implement a mechanism to update the time periodically, so the user can see the latest time in each location.
-[ ] Add any additional features you wish, such as the ability to add or remove locations, customize the UI, or share the time with others.
+- [x] Create a user interface (UI) that displays the time for each location. You can use a ListView, RecyclerView, or any other UI component that is appropriate.
+- [ ] Create a class that retrieves the current time for each location using a web service or API. There are several APIs available, such as the Google Maps Time Zone API, which provides time zone information for a given location.
+- [ ] Use the Timezone class to convert the retrieved time to the user's local time zone.
+- [ ] Display the converted time in the UI component.
+- [ ] Implement a mechanism to update the time periodically, so the user can see the latest time in each location.
+- [ ] Add any additional features you wish, such as the ability to add or remove locations, customize the UI, or share the time with others.
